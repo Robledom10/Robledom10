@@ -1,5 +1,5 @@
 
-<h2 align="left">Hola, 👋 Mi nombre es Miguel Robledo y soy un estudiante de programacion.</h2>
+<h2 align="left">Hola, Mi nombre es Miguel Robledo y soy un estudiante de programacion.</h2>
 
 ###
 
